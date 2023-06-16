@@ -125,7 +125,7 @@
 
 
 		// PROFILE PICTURE URL
-		var config_profile_image_url = "assets/images/person.jpg";
+		var config_profile_image_url = "assets/images/wind.jpg";
 
 
 
